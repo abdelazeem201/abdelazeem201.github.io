@@ -16,14 +16,6 @@ Education
 ======
 * B.S. in ECE,Zagazig University, 2016 - 2021
 
-Research Experience
-======
-* Graduate Researcher (2020 - Present)
-  * Worked with [Prof. Prasanna](https://sites.usc.edu/prasanna/) on hardware acceleration of Graph Neural Networks inference and training on heterogeneous platform.
-* Undergraduate Researcher (2019 - 2020)
-  * Worked with Professor [Yi-Chang Lu](https://sites.google.com/view/ldps-giee-ntu/home/advisor/) on hardware accelerator for DNA sequence alignment. [Link](https://github.com/jasonlin316/Systolic-Array-for-Smith-Waterman) 
-  * Worked with Professor [Tzi-Dar Chiueh](http://dodger.ee.ntu.edu.tw/faculty.htm) on digital circuit design. Taped-out a RISC-V CPU. [Link](https://github.com/jasonlin316/RISC-V-CPU)
-
 Work Experience
 ======
 * Military Conscription, Benha Electronics Co.(Dec 2021 - Dec 2022).
