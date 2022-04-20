@@ -31,7 +31,7 @@ Work Experience
 * Arm Ltd (Dec 2020)
   * ASIC Design Engineer 
  
-*One Lab. Aug 2020 - Nov 2020
+* One Lab. Aug 2020 - Nov 2020
   * RTL to GDSII: going through digital design flow starting from Constraint, Synthesis, PnR steps, Timing, Sign off, and Physical verification.
 
 Volunteer Experience
