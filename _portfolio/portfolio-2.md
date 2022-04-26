@@ -1,5 +1,5 @@
 ---
-title: "SoC-Implementation-of-OpenMSP430-Microcontroller"
+title: "SoC-Implementation of OpenMSP430 Microcontroller"
 excerpt: "This project implements a -OpenMSP430 tape-out.<br/><img src='/images/openMSP430.png'>"
 collection: portfolio
 ---
