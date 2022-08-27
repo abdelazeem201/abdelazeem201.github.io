@@ -18,26 +18,26 @@ Education
 
 Work Experience
 ======
-* ICpedia
+* ICpedia.                                                              (Jul 2022 - Sep 2020)
   * Responsible for Physical Implementation of an IP - starting from Netlist to GDS, including floorplanning, Placement, Clock design, Optimization, Timing closure, DRC/LVS, LEC, MVRC, and sign-off.
   * Analyzed Timing for blocks and fixed the timing violations.
   * Analyzed Clock slews and skews and optimized the clock tree for maintaining the slew and skew limits.
   * Used the concept of useful skew to fix timing violations for critical blocks.
   
-* Military Conscription, Benha Electronics Co.(Dec 2021 - Dec 2022).
+* Military Conscription, Benha Electronics Co.                          (Dec 2021 - Dec 2022)
   * Design real-time digital signal processing systems
   * Analyze cost and risk factors involved in system development activities
 
-* Synopsys (Spring 2021)
+* Synopsys                                                              (Spring 2021)
   * ASIC Physical Design Engineer 
 
-* Cadence. (Jan 2021)
+* Cadence.                                                              (Jan 2021)
   * ASIC Physical Design Engineer 
 
-* Arm Ltd (Dec 2020)
+* Arm Ltd                                                               (Dec 2020)
   * ASIC Design Engineer 
  
-* One Lab. Aug 2020 - Nov 2020
+* One Lab.                                                              (Aug 2020 - Nov 2020)
   * RTL to GDSII: going through digital design flow starting from Constraint, Synthesis, PnR steps, Timing, Sign off, and Physical verification.
 
 Volunteer Experience
