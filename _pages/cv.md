@@ -18,6 +18,12 @@ Education
 
 Work Experience
 ======
+* ICpedia
+  * Responsible for Physical Implementation of an IP - starting from Netlist to GDS, including floorplanning, Placement, Clock design, Optimization, Timing closure, DRC/LVS, LEC, MVRC, and sign-off.
+  * Analyzed Timing for blocks and fixed the timing violations.
+  * Analyzed Clock slews and skews and optimized the clock tree for maintaining the slew and skew limits.
+  * Used the concept of useful skew to fix timing violations for critical blocks.
+  
 * Military Conscription, Benha Electronics Co.(Dec 2021 - Dec 2022).
   * Design real-time digital signal processing systems
   * Analyze cost and risk factors involved in system development activities
