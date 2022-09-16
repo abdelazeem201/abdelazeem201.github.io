@@ -4,4 +4,4 @@ excerpt: "This repository presents design of UART module for serial communicatio
 collection: portfolio
 ---
 
-[Link](https://github.com/abdelazeem201/Mini-Stereo-Digital-Audio-Processor-MSDAP)
+[Link](https://github.com/abdelazeem201/ASIC-Implementation-UART)
