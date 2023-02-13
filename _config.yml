@@ -180,7 +180,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  tutorials:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -220,10 +220,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _tutorials
   - scope:
       path: ""
-      type: publications
+      type: tutorials
     values:
       layout: single
       author_profile: true
